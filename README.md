@@ -15,9 +15,3 @@ Today's plan
 =======
 That is H commit from main
 >>>>>>> main
-
-Hello
-
-Rick
-
-and Morty 
