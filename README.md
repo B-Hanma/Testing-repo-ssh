@@ -10,4 +10,4 @@ Today's plan
 -GitHub ACTION CI/CD 
 -GitHUB Action Advance
 
-- That a G commit with from main
+- That's a I commit from feat/docs
