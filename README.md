@@ -10,4 +10,4 @@ Today's plan
 -GitHub ACTION CI/CD 
 -GitHUB Action Advance
 
--So that's F commit , E should be above with phase 1 
+- That a G commit with from main
