@@ -1,0 +1,54 @@
+[33mcommit a61ab01e5c8bc21366a8837f396ffb78242e39b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/branch[m[33m)[m
+Merge: edf7830 3fbde9d
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:48:13 2026 +0000
+
+    Added commit E
+
+[33mcommit edf783085dbe3e08bd7010d6d752c425f7e51cc3[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:43:21 2026 +0000
+
+    Added commit F
+
+[33mcommit 3fbde9dbb284b4c713f59bd87d3a33c0d21dc473[m[33m ([m[1;32mmain[m[33m)[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:33:54 2026 +0000
+
+    Added commit E
+
+[33mcommit 9725ce302d10d8c278ce067025458bb75fd744f2[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:21:15 2026 +0000
+
+    Added commit D
+
+[33mcommit f280832d4ce71a73bfc1edc5abc1762301b9b46b[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:19:31 2026 +0000
+
+    Added commit C
+
+[33mcommit f716766655acfcbe63987f8e950841ee136da5c5[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:14:12 2026 +0000
+
+    Added commit B
+
+[33mcommit 3d5cc9c17bc663fb2901ca19b92683085c1ddf46[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 10 01:12:36 2026 +0000
+
+    Added commit A
+
+[33mcommit 1ca7c30b2a1e3dc3cc52bb8b59828c3eb1e338ca[m[33m ([m[1;31morigin/stg[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mstg[m[33m, [m[1;32mdev[m[33m)[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 3 13:12:51 2026 +0000
+
+    Added Hello msg
+
+[33mcommit 4155a76ad15060e0ad3b046f27603921c8da70ec[m
+Author: Sandeep Verma <vermasandeep7430@gmail.com>
+Date:   Thu Sep 3 12:37:57 2026 +0000
+
+    added README file

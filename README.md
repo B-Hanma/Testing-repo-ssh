@@ -10,4 +10,8 @@ Today's plan
 -GitHub ACTION CI/CD 
 -GitHUB Action Advance
 
+<<<<<<< HEAD
 - That's a I commit from feat/docs
+=======
+That is H commit from main
+>>>>>>> main
